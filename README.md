@@ -63,7 +63,8 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![Uploading Screenshot 2025-09-29 204505.png…]()
+<img width="2485" height="1652" alt="Screenshot 2025-09-29 204505" src="https://github.com/user-attachments/assets/0876b65e-4266-4aa6-a782-8d28502fc4e3" />
+
 
 ```
 
